@@ -20,7 +20,7 @@ This project is a Breast Cancer Detection tool built using Machine Learning and 
 
 ## How to Use
 1. **Clone the Repository**:
-    `git clone https://github.com/yourusername/breast-cancer-detection.git`
+    `git clone [https://github.com/yourusername/breast-cancer-detection.git](https://github.com/Kabir-Sidhu/Breast-Cancer-Detection)`
 
 2. **Download Model Weights**:
     Download the pre-trained model and weights from [Google Drive](https://drive.google.com/file/d/1sMbvTuQ5-DnFXnLMkTt1wx2xcIpqPkXu/view?usp=sharing).
